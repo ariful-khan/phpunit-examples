@@ -1,0 +1,13 @@
+{
+    "name": "root/phpunit-examples",
+    "authors": [
+        {
+            "name": "ariful",
+            "email": "neconest@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    }
+}
